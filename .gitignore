@@ -1,0 +1,9 @@
+__pycache__/
+codex/
+*.bat
+*.py
+_placeholder/
+tools/
+*_draft*
+*_v2*
+pano/*.jpg

@@ -1,0 +1,62 @@
+{
+  "station": "N2",
+  "image": "pano/N2_jialeshui.jpg",
+  "hotspots": [
+    {
+      "id": "N2_c1",
+      "name": "蜂窩岩",
+      "x": 13,
+      "y": 55,
+      "egg": false
+    },
+    {
+      "id": "N2_c2",
+      "name": "棋盤石",
+      "x": 31,
+      "y": 66,
+      "egg": false
+    },
+    {
+      "id": "N2_c3",
+      "name": "海蝕平台與浪花",
+      "x": 40,
+      "y": 49,
+      "egg": false
+    },
+    {
+      "id": "N2_c4",
+      "name": "紅色條紋岩石",
+      "x": 58,
+      "y": 45,
+      "egg": false
+    },
+    {
+      "id": "N2_c5",
+      "name": "壺穴",
+      "x": 67,
+      "y": 70,
+      "egg": false
+    },
+    {
+      "id": "N2_c6",
+      "name": "扭曲的岩層",
+      "x": 81,
+      "y": 41,
+      "egg": false
+    },
+    {
+      "id": "N2_c7",
+      "name": "太平洋",
+      "x": 6,
+      "y": 43,
+      "egg": false
+    },
+    {
+      "id": "N2_egg",
+      "name": "山海瀑布",
+      "x": 94,
+      "y": 44,
+      "egg": true
+    }
+  ]
+}

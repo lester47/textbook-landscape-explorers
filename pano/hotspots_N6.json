@@ -1,0 +1,62 @@
+{
+  "station": "N6",
+  "image": "pano/N6_qingshui.jpg",
+  "hotspots": [
+    {
+      "id": "N6_c1",
+      "name": "垂直入海的斷崖",
+      "x": 37,
+      "y": 43,
+      "egg": false
+    },
+    {
+      "id": "N6_c2",
+      "name": "漸層藍的太平洋",
+      "x": 59,
+      "y": 56,
+      "egg": false
+    },
+    {
+      "id": "N6_c3",
+      "name": "崁在崖壁的公路與隧道",
+      "x": 20,
+      "y": 48,
+      "egg": false
+    },
+    {
+      "id": "N6_c4",
+      "name": "浪花與礫石灘",
+      "x": 47,
+      "y": 65,
+      "egg": false
+    },
+    {
+      "id": "N6_c5",
+      "name": "觀景平台與無字石碑",
+      "x": 69,
+      "y": 68,
+      "egg": false
+    },
+    {
+      "id": "N6_c6",
+      "name": "層層山稜",
+      "x": 72,
+      "y": 43,
+      "egg": false
+    },
+    {
+      "id": "N6_c7",
+      "name": "舊公路改成的步道",
+      "x": 8,
+      "y": 72,
+      "egg": false
+    },
+    {
+      "id": "N6_egg",
+      "name": "海上日出",
+      "x": 92,
+      "y": 46,
+      "egg": true
+    }
+  ]
+}

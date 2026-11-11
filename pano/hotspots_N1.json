@@ -1,0 +1,62 @@
+{
+  "image": "pano/N1_moonworld.jpg",
+  "hotspots": [
+    {
+      "y": 43,
+      "id": "N1_c1",
+      "egg": false,
+      "name": "泥岩惡地山丘",
+      "x": 17
+    },
+    {
+      "y": 42,
+      "id": "N1_c2",
+      "egg": false,
+      "name": "雨蝕溝",
+      "x": 31
+    },
+    {
+      "y": 62,
+      "id": "N1_c3",
+      "egg": false,
+      "name": "月池",
+      "x": 43
+    },
+    {
+      "y": 41,
+      "id": "N1_c4",
+      "egg": false,
+      "name": "陡峭的稜線",
+      "x": 56
+    },
+    {
+      "y": 52,
+      "id": "N1_c5",
+      "egg": false,
+      "name": "耐旱植物",
+      "x": 68
+    },
+    {
+      "y": 62,
+      "id": "N1_c6",
+      "egg": false,
+      "name": "步道與觀景台",
+      "x": 81
+    },
+    {
+      "y": 67,
+      "id": "N1_c7",
+      "egg": false,
+      "name": "泥岩乾裂紋",
+      "x": 6
+    },
+    {
+      "y": 67,
+      "id": "N1_egg",
+      "egg": true,
+      "name": "泥火山",
+      "x": 94
+    }
+  ],
+  "station": "N1"
+}

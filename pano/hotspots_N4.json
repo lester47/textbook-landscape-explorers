@@ -1,0 +1,62 @@
+{
+  "station": "N4",
+  "image": "pano/N4_taitungforest.jpg",
+  "hotspots": [
+    {
+      "id": "N4_c1",
+      "name": "木麻黃林",
+      "x": 14,
+      "y": 43,
+      "egg": false
+    },
+    {
+      "id": "N4_c2",
+      "name": "琵琶湖",
+      "x": 28,
+      "y": 57,
+      "egg": false
+    },
+    {
+      "id": "N4_c3",
+      "name": "自行車道",
+      "x": 45,
+      "y": 69,
+      "egg": false
+    },
+    {
+      "id": "N4_c4",
+      "name": "大片草地",
+      "x": 58,
+      "y": 64,
+      "egg": false
+    },
+    {
+      "id": "N4_c5",
+      "name": "河口濕地",
+      "x": 72,
+      "y": 55,
+      "egg": false
+    },
+    {
+      "id": "N4_c6",
+      "name": "遠方的海岸",
+      "x": 82,
+      "y": 50,
+      "egg": false
+    },
+    {
+      "id": "N4_c7",
+      "name": "落滿地面的細枝",
+      "x": 5,
+      "y": 76,
+      "egg": false
+    },
+    {
+      "id": "N4_egg",
+      "name": "白鷺鷥",
+      "x": 94,
+      "y": 39,
+      "egg": true
+    }
+  ]
+}

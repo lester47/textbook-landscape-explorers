@@ -1,0 +1,62 @@
+{
+  "station": "N3",
+  "image": "pano/N3_sunmoonlake.jpg",
+  "hotspots": [
+    {
+      "id": "N3_c1",
+      "name": "湖面與環繞群山",
+      "x": 18,
+      "y": 57,
+      "egg": false
+    },
+    {
+      "id": "N3_c2",
+      "name": "拉魯島",
+      "x": 28,
+      "y": 47,
+      "egg": false
+    },
+    {
+      "id": "N3_c3",
+      "name": "慈恩塔",
+      "x": 45,
+      "y": 39,
+      "egg": false
+    },
+    {
+      "id": "N3_c4",
+      "name": "遊湖碼頭與遊艇",
+      "x": 56,
+      "y": 51,
+      "egg": false
+    },
+    {
+      "id": "N3_c5",
+      "name": "九蛙疊像",
+      "x": 70,
+      "y": 53,
+      "egg": false
+    },
+    {
+      "id": "N3_c6",
+      "name": "環湖自行車道",
+      "x": 84,
+      "y": 51,
+      "egg": false
+    },
+    {
+      "id": "N3_c7",
+      "name": "山嵐與倒影",
+      "x": 8,
+      "y": 44,
+      "egg": false
+    },
+    {
+      "id": "N3_egg",
+      "name": "岸邊石頭的水位痕跡",
+      "x": 93,
+      "y": 68,
+      "egg": true
+    }
+  ]
+}
