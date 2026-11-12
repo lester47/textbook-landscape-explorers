@@ -1,4 +1,5 @@
 {
+  "quizRetry": { "maxWrong": 2 },
   "issuer": "國小社會領域教學團隊",
   "appTitle": "課本景觀 360 探險隊",
   "appSubtitle": "走進課本裡的自然與人文景觀",
